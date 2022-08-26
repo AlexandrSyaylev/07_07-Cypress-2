@@ -9,3 +9,5 @@ tmp/
 *.*_backup
 !.vscode
 node_modules/
+video/
+screenshoots/
